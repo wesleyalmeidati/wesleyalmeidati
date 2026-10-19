@@ -35,6 +35,10 @@ Também trabalhei no TRE-AM (técnico de urna eletrônica), no IDESAM e no Colé
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
+### 🚀 Projetos
+
+- **SisHospedar**: meu TCC de 2013 (sistema de gestão hoteleira), reconstruído em ASP.NET Core MVC + Entity Framework Core + SQL Server com apoio de IA (Claude). Tem controle de acesso por perfis e reservas online *(em breve público)*
+
 ### 📚 Estudando agora
 
 - **Microsoft Azure Administrator (AZ-104)**
