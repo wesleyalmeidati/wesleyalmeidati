@@ -6,13 +6,16 @@
 
 **Chefe de Departamento de TI**, Defesa Civil do Amazonas (2023–2025)
 
-- Projetei a nova rede cabeada e Wi-Fi em **UniFi** (UDM-SE, switches PoE), dimensionada para **200 usuários** e operando com **mais de 300 dispositivos** simultâneos
-- Executei a reestruturação da rede por **R$ 35 mil**, frente a uma estimativa inicial de **R$ 105 mil**
-- Segmentei a rede por **VLANs** conforme o perfil de uso dos dispositivos
-- Mantive o firewall **pfSense** (VPN, regras por usuário, controle de banda) até a migração para o UDM-SE
-- Identifiquei e respondi a um incidente de contas comprometidas no **Microsoft 365**: análise de logs, relatório técnico e redefinição de senhas
-- Administrei **Windows Server** (Active Directory, Print Server) e a virtualização, migrando de **VMware** para **Hyper-V**
+Liderei a equipe de TI do órgão. Fui responsável pelos projetos e pelas decisões técnicas, e envolvi o time em cada etapa para que ele dominasse o ambiente e assumisse a manutenção e as correções.
+
+- Projetei a nova rede cabeada e Wi-Fi em **UniFi** (UDM-SE, switches PoE), dimensionada para **200 usuários**, e conduzi a implantação com a equipe. Hoje ela opera com **mais de 300 dispositivos** simultâneos
+- Planejei a reestruturação para caber em **R$ 35 mil**, frente a uma estimativa inicial de **R$ 105 mil**, sem abrir mão da capacidade exigida pelo órgão
+- Defini a segmentação da rede por **VLANs** conforme o perfil de uso dos dispositivos
+- Mantive o firewall **pfSense** herdado (VPN, regras por usuário, controle de banda) e conduzi a migração para o UDM-SE
+- Identifiquei um incidente de contas comprometidas no **Microsoft 365**, analisei os logs e elaborei o relatório técnico que embasou a redefinição de senhas
+- Administrei **Windows Server** (Active Directory, Print Server) e conduzi a migração da virtualização de **VMware** para **Hyper-V**
 - Automatizei a instalação de impressoras nas estações com **PowerShell**
+- Organizei com a equipe as rotinas de backup e a adoção do **Jira** para registro de chamados
 
 **Consultor de TI Autônomo**, WesleyApp (2013–2025): suporte, manutenção e redes locais para pessoas e pequenas organizações
 
