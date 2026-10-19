@@ -37,7 +37,7 @@ Também trabalhei no TRE-AM (técnico de urna eletrônica), no IDESAM e no Colé
 
 ### 🚀 Projetos
 
-- **SisHospedar**: meu TCC de 2013 (sistema de gestão hoteleira), reconstruído em ASP.NET Core MVC + Entity Framework Core + SQL Server com apoio de IA (Claude). Tem controle de acesso por perfis e reservas online *(em breve público)*
+- **[SisHospedar](https://github.com/wesleyalmeidati/SisHospedar)**: meu TCC de 2013 (sistema de gestão hoteleira), reconstruído em ASP.NET Core MVC + Entity Framework Core + SQL Server com apoio de IA (Claude). Tem controle de acesso por perfis e reservas online
 
 ### 📚 Estudando agora
 
